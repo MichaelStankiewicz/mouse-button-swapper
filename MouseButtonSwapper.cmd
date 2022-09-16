@@ -1,0 +1,1 @@
+powershell.exe -NonInteractive -ExecutionPolicy 'ByPass' -NoProfile -File .\Set-PrimaryMouseButton.ps1
