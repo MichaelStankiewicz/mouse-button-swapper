@@ -13,6 +13,7 @@ The code contains three main files:
 ## How to Use
    * Download the repo.
    * Double-click on the MouseButtonSwapper.cmd file.
+   * Click the button representing the hand you would like to use to control the mouse.
 
 ## How it Works
 After clicking the CMD file, you will be presented with a dialogue box asking which hand you prefer to use with the mouse.  The form will present two buttons: a Right and a Left button.  Based on the orientation selected, the primary mouse button will be activated on the system mouse.
