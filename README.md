@@ -18,5 +18,7 @@ The code contains three main files:
 ## How it Works
 After clicking the CMD file, you will be presented with a dialogue box asking which hand you prefer to use with the mouse.  The form will present two buttons: a Right and a Left button.  Based on the orientation selected, the primary mouse button will be activated on the system mouse.
 
+This project uses Windows PowerShell to perform the underlying mouse settings update functions.
+
 ## Additional Setup / Information
 In a classroom setting, it may be best to create a shortcut to the .CMD file and place it on the desktop of each learner.  This can be achieved by storing the solution in a centralized share that is accessible by each learner's workstation - in this option, the shortcut file would need to be updated to reflect the central share location.  Or, you can copy the complete solution to each workstation, create a shortcut from the local file and place this on the desktop of each learner.  The former solution is the recommended one, if it is feasible.
